@@ -1,5 +1,5 @@
 Full Name: Vincent Lu
-GitHub ID: spluted4
+GitHub ID: vlu-4
 Binghamton CS userid: vlu4
 Discord name: spluted
 
